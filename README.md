@@ -209,4 +209,4 @@ jetAudio is offered as a complete free version with all features and updates inc
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-16 06:28:42 UTC
+**Last updated:** 2026-10-16 11:57:34 UTC
